@@ -1,6 +1,6 @@
-### Hi there 👋, I am Sulaiman
-#### Professional WordPress Developer and SEO expert. also Designer.
-![Professional WordPress Developer and SEO expert. also Designer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# Hi there 👋, I am Sulaiman
+## Professional WordPress Developer and SEO expert. also Designer.
+
 
 I'm a Professional Web developer and WordPress Specialist and SEO expert also Digital Marketer. I have more than 4-years experience. I have solid experience in 
 - WordPress Website Theme Customization design, 
@@ -19,7 +19,7 @@ Best regards from Sulaiman
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
