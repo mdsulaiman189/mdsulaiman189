@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0px;
+}
+
+
+.hone {
+    background-color: lightpink;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+    top: 0;
+    position: sticky;
+}
+
+.widh {
+    background-color: rgb(11, 0, 107);
+    color: greenyellow;
+
+}
+
+.nd_row {
+    background-color: burlywood;
+    border: solid 5px rgb(0, 204, 255);
+}
+
+
+.myClass {
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+
+
+.decoration li a {
+    text-decoration: none;
+    color: rgb(0, 247, 255);
+    background-color: rgb(12, 10, 177);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.decoration li a:hover {
+    color: rgb(255, 255, 255);
+    background-color: grey;
+    border-radius: 8px;
+    transition: 0.5s all;
+}
+
+.float_left {
+    float: left;
+}
+
+.float_right {
+    float: right;
+}
+
+.sizee {
+    height: 500px;
+    width: auto;
+}
