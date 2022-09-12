@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sulaiman
 #### Professional WordPress Developer and SEO expert. also Coding Lover.
-![Professional WordPress Developer and SEO expert. also Coding Lover.](https://media-exp1.licdn.com/dms/image/C5616AQGeA53LUlq3FA/profile-displaybackgroundimage-shrink_200_800/0/1619504362472?e=1645660800&v=beta&t=Px01kt1gnjnMll51VQPY9PIvq9ZpLsA-xrQ1oQQLxUM)
+![Professional WordPress Developer and SEO expert. also Coding Lover.](https://www.linkedin.com/in/mdsulaiman189/overlay/background-image/)
 
 I'm a Professional Web developer and WordPress Specialist and SEO expert also Digital Marketer. I have more than 4-years experience. I have solid experience in 
 - WordPress Website Theme Customization design, 
